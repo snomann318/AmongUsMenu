@@ -1,5 +1,3 @@
-# AmongUsMenu [![Discord](https://img.shields.io/badge/Discord-Invite-7289DA.svg?logo=Discord&style=flat-square)](https://discord.gg/nDqvKYvEu3)
-
 <p align="center">
    AmongUsMenu is a Cheat Menu for the popular Game Among Us.
 </p>
@@ -37,11 +35,3 @@ Will automatically be loaded by the Game itself if the dll is in the game direct
 * [std-nullptr](https://github.com/std-nullptr) (Maintainer & IL2CPP Madman)
 * [OsOmE1](https://github.com/OsOmE1) (Contributor)
 * [RealMVC](https://github.com/RealMVC) (Contributor)
-
-## Contributing
-
-1. Fork it (<https://github.com/std-nullptr/AmongUsMenu/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
